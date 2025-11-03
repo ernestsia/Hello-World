@@ -1,0 +1,8 @@
+{
+    "require": {
+        "pragmarx/google2fa-laravel": "*",
+        "pragmarx/google2fa-qrcode": "*",
+        "paragonie/constant_time_encoding": "*",
+        "pragmarx/google2fa": "*"
+    }
+}
